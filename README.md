@@ -1,2 +1,2 @@
-# Tugas-Modul-5-6
+# Tugas-Praktikum-3
 Membuat Segitiga Pascal dan Output berupa nama, nim, dan prodi.
